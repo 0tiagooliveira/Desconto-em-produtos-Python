@@ -11,14 +11,11 @@ Abra um terminal ou prompt de comando e navegue até a pasta onde você salvou o
 
 Digite o seguinte comando para executar o código:
 
-Copy code
 python desconto.py
 Digite o preço do produto quando solicitado pelo programa e pressione Enter.
 
 O programa calculará o preço final do produto com o desconto aplicado e exibirá a mensagem no seguinte formato:
 
-php
-Copy code
 O produto que custava R$ <preco_original> na promoção de desconto vai custar R$ <preco_final>
 Substitua <preco_original> e <preco_final> pelos valores correspondentes calculados pelo programa.
 
